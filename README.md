@@ -55,12 +55,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adilali864/adilali864/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 📫 Connect With Me
 📩 Email: **aadil864khan@gmail.com**  
