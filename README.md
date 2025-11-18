@@ -49,7 +49,7 @@
 
 ### 📊 Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilali864&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adilali864&show_icons=true&theme=default" height="600"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilali864" height="165"/>
 </p>
 
